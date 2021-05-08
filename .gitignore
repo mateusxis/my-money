@@ -49,3 +49,12 @@ Thumbs.db
 *.wmv
 
 .env
+
+# testing
+coverage/
+
+# production
+.next/
+static/
+.build/
+.build_static/
