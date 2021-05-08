@@ -31,5 +31,6 @@
     "prettier": "^2.2.1",
     "typescript": "^4.2.4",
     "webpack-bundle-analyzer": "^4.4.1"
-  }
+  },
+  "cacheDirectories": [".next/cache"]
 }
